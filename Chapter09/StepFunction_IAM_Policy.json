@@ -1,0 +1,63 @@
+{
+	"Version": "2012-10-17",
+	"Statement": [
+		{
+			"Effect": "Allow",
+			"Action": "iam:PassRole",
+			"Resource": "arn:aws:iam::300165273893:role/service-role/AmazonSageMaker-ExecutionRole-20230715T205102",
+			"Condition": {
+				"StringEquals": {
+					"iam:PassedToService": "sagemaker.amazonaws.com"
+				}
+			}
+		},
+		{
+			"Effect": "Allow",
+			"Action": [
+				"sagemaker:CreateModel",
+				"sagemaker:DeleteEndpointConfig",
+				"sagemaker:DescribeTrainingJob",
+				"sagemaker:CreateEndpoint",
+				"sagemaker:StopTrainingJob",
+				"sagemaker:CreateTrainingJob",
+				"sagemaker:UpdateEndpoint",
+				"sagemaker:CreateEndpointConfig",
+				"sagemaker:DeleteEndpoint",
+				"sagemaker:AddTags"
+			],
+			"Resource": [
+				"arn:aws:sagemaker:*:*:*"
+			]
+		},
+		{
+			"Effect": "Allow",
+			"Action": [
+				"events:DescribeRule",
+				"events:PutRule",
+				"events:PutTargets"
+			],
+			"Resource": [
+				"arn:aws:events:*:*:rule/StepFunctionsGetEventsForSageMakerTrainingJobsRule"
+			]
+		},
+		{
+			"Effect": "Allow",
+			"Action": [
+				"lambda:InvokeFunction"
+			],
+			"Resource": [
+				"arn:aws:lambda:*:*:function:query-training-status*"
+			]
+		},
+		{
+			"Effect": "Allow",
+			"Action": [
+				"glue:StartJobRun",
+				"glue:GetJobRun",
+				"glue:BatchStopJobRun",
+				"glue:GetJobRuns"
+			],
+			"Resource": "arn:aws:glue:*:*:job/glue-customer-churn-etl*"
+		}
+	]
+}
