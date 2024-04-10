@@ -10,10 +10,11 @@ The author of this book is - [David Ping](https://www.linkedin.com/in/davidping/
 
 
 ## About the book
+David Ping, Head of GenAI and ML Solution Architecture for global industries at AWS, provides expert insights and practical examples to help you become a proficient ML solutions architect, linking technical architecture to business-related skills.
+You'll learn about ML algorithms, cloud infrastructure, system design, MLOps , and how to apply ML to solve real-world business problems. David explains the generative AI project lifecycle and examines **Retrieval Augmented Generation** (**RAG**), an effective architecture pattern for generative AI applications. You’ll also learn about open-source technologies, such as Kubernetes/Kubeflow, for building a data science environment and ML pipelines before building an enterprise ML architecture using AWS. As well as ML risk management and the different stages of AI/ML adoption, the biggest new addition to the handbook is the deep exploration of generative AI.
+By the end of this book , you’ll have gained a comprehensive understanding of AI/ML across all key aspects, including business use cases, data science, real-world solution architecture, risk management, and governance. You’ll possess the skills to design and construct ML solutions that effectively cater to common use cases and follow established ML architecture patterns, enabling you to excel as a true professional in the field.
 
 
-
- 
 ## Key Takeaways
 - Apply ML methodologies to solve business problems across industries
 - Design a practical enterprise ML platform architecture
@@ -24,15 +25,8 @@ The author of this book is - [David Ping](https://www.linkedin.com/in/davidping/
 - Dive into generative AI with use cases, architecture patterns, and RAG
 
 
-## New Edition v/s Previous Edition
-
-
-
-## What's New
- 
-
-
 ## Outline and Chapter Summary
+This latest edition emphasizes AI risk management, the AI/ML adoption journey, and the emerging field of generative AI, highlighting the increasing importance of developing secure and scalable ML platforms across industries.
  
 
 1. Navigating the ML Lifecycle with ML Solutions Architecture
