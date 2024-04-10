@@ -1,1 +1,79 @@
 # The-Machine-Learning-Solutions-Architect-and-Risk-Management-Handbook-Second-Edition
+
+This is the code repository for the [The-Machine-Learning-Solutions-Architect-and-Risk-Management-Handbook-Second-Edition](https://www.packtpub.com/product/the-machine-learning-solutions-architect-handbook-second-edition/9781805122500), published by Packt.
+
+More details are below, pick up [your copy](https://www.amazon.com/Machine-Learning-Solutions-Architect-Handbook/dp/1805122509/ref=sr_1_1?crid=1J1TM972QKJUM&dib=eyJ2IjoiMSJ9.X7V8CdrgkFCmd-Ohlm-wYwFQ5J2ruK2Vwo6pUdWywps_ATZyMw6ytekYQkyPme3MCB6-iUlChGhtrPo96R-uqDJvRAIHdjJ6HGR3KRLc-3nVyaR8tv8j8lxPWJ3GAP0dH7VTDmM6MpmtpTFBP06sW5R313kFXzhuhSZEZHSrO9MxelUEhVZyZwrtCPuRsV1z2sfelpxlWs5zftGpWd99A0O-Qjsm2PQUDu05PoFXZKs.9nT7kr95RSjgEAn6rZpanysPMAsp3xtutrwOYhOhAz8&dib_tag=se&keywords=david+ping&qid=1712726921&s=books&sprefix=david+ping%2Cstripbooks-intl-ship%2C1114&sr=1-1) today!
+
+**Practical strategies and best practices on the ML lifecycle, system design, MLOps, and generative AI**
+
+The author of this book is - [David Ping](https://www.linkedin.com/in/davidping/)
+
+
+## About the book
+
+
+
+ 
+## Key Takeaways
+- Apply ML methodologies to solve business problems across industries
+- Design a practical enterprise ML platform architecture
+- Gain an understanding of AI risk management frameworks and techniques
+- Build an end-to-end data management architecture using AWS
+- Train large-scale ML models and optimize model inference latency
+- Create a business application using artificial intelligence services and custom models
+- Dive into generative AI with use cases, architecture patterns, and RAG
+
+
+## New Edition v/s Previous Edition
+
+
+
+## What's New
+ 
+
+
+## Outline and Chapter Summary
+ 
+
+1. Navigating the ML Lifecycle with ML Solutions Architecture
+2. Exploring ML Business Use Cases
+3. [Exploring ML Algorithms](https://github.com/PacktPublishing/The-Machine-Learning-Solutions-Architect-and-Risk-Management-Handbook-Second-Edition/tree/main/Chapter03)
+4. [Data Management for ML](https://github.com/PacktPublishing/The-Machine-Learning-Solutions-Architect-and-Risk-Management-Handbook-Second-Edition/tree/main/Chapter04)
+5. [Exploring Open-Source ML Libraries](https://github.com/PacktPublishing/The-Machine-Learning-Solutions-Architect-and-Risk-Management-Handbook-Second-Edition/tree/main/Chapter05)
+6. [Kubernetes Container Orchestration Infrastructure Management](https://github.com/PacktPublishing/The-Machine-Learning-Solutions-Architect-and-Risk-Management-Handbook-Second-Edition/tree/main/Chapter06)
+7. [Open-Source ML Platforms](https://github.com/PacktPublishing/The-Machine-Learning-Solutions-Architect-and-Risk-Management-Handbook-Second-Edition/tree/main/Chapter07)
+8. [Building a Data Science Environment Using AWS ML Services](https://github.com/PacktPublishing/The-Machine-Learning-Solutions-Architect-and-Risk-Management-Handbook-Second-Edition/tree/main/Chapter08)
+9. [Designing an Enterprise ML Architecture with AWS ML Services](https://github.com/PacktPublishing/The-Machine-Learning-Solutions-Architect-and-Risk-Management-Handbook-Second-Edition/tree/main/Chapter09)
+10. [Advanced ML Engineering](https://github.com/PacktPublishing/The-Machine-Learning-Solutions-Architect-and-Risk-Management-Handbook-Second-Edition/tree/main/Chapter10)
+11. [Building ML Solutions with AWS AI Services](https://github.com/PacktPublishing/The-Machine-Learning-Solutions-Architect-and-Risk-Management-Handbook-Second-Edition/tree/main/Chapter11)
+12. AI Risk Management
+13. [Bias, Explainability, Privacy, and Adversarial attacks](https://github.com/PacktPublishing/The-Machine-Learning-Solutions-Architect-and-Risk-Management-Handbook-Second-Edition/tree/main/Chapter13)
+14. Charting the Course of Your ML Journey
+15. Navigating the Generative AI Project Lifecycle
+16. Designing Generative AI Platforms and Solutions
+
+
+
+
+
+## Know more on the Discord server <img alt="Coding" height="25" width="32"  src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif">
+You can get more engaged on the discord server for more latest updates and discussions in the community at [Discord](https://packt.link/mlsah)
+
+
+## Download a free PDF <img alt="Coding" height="25" width="40" src="https://emergency.com.au/wp-content/uploads/2021/03/free.gif">
+
+_If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost. Simply click on the link to claim your free PDF._
+[Free-Ebook](https://packt.link/free-ebook/9781805122500) <img alt="Coding" height="15" width="35"  src="https://media.tenor.com/ex_HDD_k5P8AAAAi/habbo-habbohotel.gif">
+
+
+We also provide a PDF file that has color images of the screenshots/diagrams used in this book at [GraphicBundle](https://packt.link/gbp/9781805122500) <img alt="Coding" height="15" width="35"  src="https://media.tenor.com/ex_HDD_k5P8AAAAi/habbo-habbohotel.gif">
+
+
+## Get to know the Author
+_David Ping_ is an accomplished author and industry expert with over 28 years of experience in the field of data science and technology. He currently serves as the leader of a team of highly skilled data scientists and AI/ML solutions architects at AWS. In this role, he assists organizations worldwide in designing and implementing impactful AI/ML solutions to drive business success. With expertise in ML solution and platform design, data management, AI risk, and governance, David's contributions span renowned organizations like JPMorgan, Credit Suisse, and Intel Corporation. With his wealth of experience and diverse skill set, David brings a unique perspective and invaluable insights to the field of AI/ML
+
+
+
+## Other Related Books
+- [Machine Learning Engineering with Python – Second Edition](https://www.packtpub.com/product/machine-learning-engineering-with-python-second-edition/9781837631964)
+- [AWS for Solutions Architects – Second Edition](https://www.packtpub.com/product/aws-for-solutions-architects-second-edition/9781803238951)
